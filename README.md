@@ -14,3 +14,9 @@
 | VREF dependence on VDDA                | PSRR        | vref/vdda at 1kHz                 |      | -60  |      | dB    |
 | Phase Margin                           | PM          | PM of combined ±feedback loops    |      |  50  |      | Deg   |
 <!--| VREF from Start Up Test Bench          | VREF(SU)    | \|1.35 - VREF(SU)\| at 100µs      |      |      | 10   | mV    | --> 
+
+## Circuit
+<p align="center">
+  <img src="XXXX" alt="Centered Image">
+</p>
+
