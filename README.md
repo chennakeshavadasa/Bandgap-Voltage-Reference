@@ -20,3 +20,43 @@
   <img src="XXXX" alt="Centered Image">
 </p>
 
+##  BGR
+- First Order Curvature Corrected Bandgap Reference Schematic
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28f56c4c-c6ba-4de6-827e-1b2388376da9" alt="Centered Image">
+</p>
+
+- **Stability Analysis across different Process corners**<br>
+
+
+    - Typical (tt)
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/e32bb8fe-b826-46df-8414-90f43c41c672" alt="Centered Image">
+    </p>
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/432ec8d8-2ebc-4f98-853f-0a7bccb4009e" alt="Centered Image">
+    </p>
+
+
+    - Slow (ss)
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/9e3e11ed-f33e-4c02-bbd9-431ae6bd48f1" alt="Centered Image">
+    </p>
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/4ee775e2-04c5-444f-b474-74bad873d970" alt="Centered Image">
+    </p>
+
+
+    - Fast (ff)
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/5526efe8-fdfd-43a8-9056-2c79c152647b" alt="Centered Image">
+    </p>
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/eb6c21d7-e6b7-40b0-a931-c30c49dff4de" alt="Centered Image">
+    </p>
+
+    - Combined
+    <p align="center">
+      <img src="https://github.com/user-attachments/assets/3efa919f-2919-4133-949d-457a6cf796c1" alt="Centered Image">
+    </p>
+
