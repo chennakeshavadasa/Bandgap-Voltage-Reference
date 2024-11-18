@@ -17,7 +17,7 @@
 
 ## Circuit
 <p align="center">
-  <img src="XXXX" alt="Centered Image">
+  <img src="XXXX" alt="[Centered Image](https://github.com/user-attachments/assets/d9168000-fcaa-4af1-bb13-adb14dc556e6)">
 </p>
 
 ##  BGR
