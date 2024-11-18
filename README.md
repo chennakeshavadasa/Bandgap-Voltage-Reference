@@ -52,6 +52,11 @@
   <img src="https://github.com/user-attachments/assets/4e8737b3-b363-4dd1-acbf-7553e7bd1e58" alt="Centered Image">
 </p>
 
+- **First Order Bandgap Reference Schematic**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98212ab5-0599-4d20-b7f7-460fb5422447" alt="Centered Image">
+</p>
+
 ## OTA
 
 ## Reference
