@@ -17,9 +17,8 @@
 
 ## Circuit
 <p align="center">
-  <img src="XXXX" alt="https://github.com/user-attachments/assets/6e4d250c-0f1a-47f3-af61-96d316cf9583">
+  <img src="https://github.com/user-attachments/assets/6e4d250c-0f1a-47f3-af61-96d316cf9583" alt="X">
 </p>
-![Second-order-bgr (1)](https://github.com/user-attachments/assets/f82c9142-4c71-4a0d-95c7-9642f406e94d)
 
 
 ##  BGR
