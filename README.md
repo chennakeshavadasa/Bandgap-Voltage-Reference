@@ -21,7 +21,7 @@
 </p>
 
 
-##  BGR
+## Piecewise Compensated Second Order Curvature corrected BGR
 - Second Order Curvature Corrected Bandgap Reference Schematic
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f91a1ffa-58b7-42c9-8c17-b5be30c7f781" alt="Centered Image">
