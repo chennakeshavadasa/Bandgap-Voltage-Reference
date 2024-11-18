@@ -24,7 +24,7 @@
 ##  BGR
 - First Order Curvature Corrected Bandgap Reference Schematic
 <p align="center">
-  <img src="XXXX" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/f91a1ffa-58b7-42c9-8c17-b5be30c7f781" alt="Centered Image">
 </p>
 
 ## OTA
