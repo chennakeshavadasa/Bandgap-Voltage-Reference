@@ -37,7 +37,8 @@
   <img src="https://github.com/user-attachments/assets/27878cf2-08a0-4e32-8f99-9638677d0697" alt="Centered Image">
 </p>
 
-- Second Order Curvature Corrected Reference Voltage Change wrt Temperature
+- Second Order Curvature Corrected Reference Voltage Change wrt Temperature<br>
+As you can see this Bandgap Reference shows a very small Temperature coefficient across temperature making it very accurate 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/807277d9-475a-4f14-ab4f-66bd54617f67" alt="Centered Image">
 </p>
