@@ -29,7 +29,7 @@
 
 - **Second Order Curvature Corrected Reference Voltage wrt to Temperature**<br>
      - I have added an extra exponential current to Iref to cancel higher order terms in Iref<br>
-     - This has been achieved by oushing Iref current to a resistor and this is sensed by a mosfet in subthreshold region and this current is pushed to Iref to cancel higher order terms in Iref<br>
+     - This has been realized by pushing Iref current to a resistor and this is sensed by a mosfet in subthreshold region and this exponential current is pushed to Iref to cancel higher order terms in Iref<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1219168d-857b-454d-9070-cf58ab1bee7d" alt="Centered Image">
 </p>
