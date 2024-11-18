@@ -49,7 +49,7 @@
 
 ## First Order Bandgap Reference Schematic
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e8737b3-b363-4dd1-acbf-7553e7bd1e58" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/ab9723e8-e332-417d-8fc6-dd6d3e69cd26" alt="Centered Image">
 </p>
 
 - **First Order Bandgap Reference Voltage wrt to Temperature**
