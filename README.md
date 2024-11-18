@@ -17,8 +17,10 @@
 
 ## Circuit
 <p align="center">
-  <img src="XXXX" alt="https://github.com/user-attachments/assets/d9168000-fcaa-4af1-bb13-adb14dc556e6">
+  <img src="XXXX" alt="https://github.com/user-attachments/assets/6e4d250c-0f1a-47f3-af61-96d316cf9583">
 </p>
+![Second-order-bgr (1)](https://github.com/user-attachments/assets/6e4d250c-0f1a-47f3-af61-96d316cf9583)
+
 
 ##  BGR
 - First Order Curvature Corrected Bandgap Reference Schematic
