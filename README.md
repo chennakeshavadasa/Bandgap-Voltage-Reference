@@ -61,9 +61,8 @@
     - As you can see this Bandgap Reference has a very small Temperature coefficient across temperature making it very accurate
     - **Temperature Coeeficient = 0.7ppm/°C**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/807277d9-475a-4f14-ab4f-66bd54617f67" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/38e08011-efec-408b-baf4-801ff1f0977f" alt="Centered Image">
 </p>
-
 
 ## OTA
 
