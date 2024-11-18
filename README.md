@@ -38,7 +38,8 @@
 </p>
 
 - Second Order Curvature Corrected Reference Voltage Change wrt Temperature<br>
-    - As you can see this Bandgap Reference shows a very small Temperature coefficient across temperature making it very accurate 
+    - As you can see this Bandgap Reference has a very small Temperature coefficient across temperature making it very accurate
+    - Temperature Coeeficient = 0.7ppm/°C
 <p align="center">
   <img src="https://github.com/user-attachments/assets/807277d9-475a-4f14-ab4f-66bd54617f67" alt="Centered Image">
 </p>
