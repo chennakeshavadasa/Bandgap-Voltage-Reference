@@ -37,6 +37,12 @@
   <img src="https://github.com/user-attachments/assets/27878cf2-08a0-4e32-8f99-9638677d0697" alt="Centered Image">
 </p>
 
+- Second Order Curvature Corrected Reference Voltage wrt Supply Voltage sweep
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/807277d9-475a-4f14-ab4f-66bd54617f67" alt="Centered Image">
+</p>
+
+
 ## First Order Curvature Corrected Bandgap Reference Schematic
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e8737b3-b363-4dd1-acbf-7553e7bd1e58" alt="Centered Image">
