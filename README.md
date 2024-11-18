@@ -24,7 +24,7 @@
 ## Piecewise Compensated Second Order Curvature corrected BGR
 - **Second Order Curvature Corrected Bandgap Reference Schematic**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f91a1ffa-58b7-42c9-8c17-b5be30c7f781" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/4f65204d-a1b2-40a2-9a01-4fda4514040d" alt="Centered Image">
 </p>
 
 - **Second Order Curvature Corrected Reference Voltage wrt to Temperature**
