@@ -47,15 +47,23 @@
 </p>
 
 
-## First Order Curvature Corrected Bandgap Reference Schematic
+## First Order Bandgap Reference Schematic
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e8737b3-b363-4dd1-acbf-7553e7bd1e58" alt="Centered Image">
 </p>
 
-- **First Order Bandgap Reference Schematic**
+- **First Order Bandgap Reference Voltage wrt to Temperature**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98212ab5-0599-4d20-b7f7-460fb5422447" alt="Centered Image">
 </p>
+
+- **Second Order Curvature Corrected Reference Voltage Change wrt Temperature**<br>
+    - As you can see this Bandgap Reference has a very small Temperature coefficient across temperature making it very accurate
+    - **Temperature Coeeficient = 0.7ppm/°C**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/807277d9-475a-4f14-ab4f-66bd54617f67" alt="Centered Image">
+</p>
+
 
 ## OTA
 
