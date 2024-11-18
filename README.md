@@ -22,24 +22,24 @@
 
 
 ## Piecewise Compensated Second Order Curvature corrected BGR
-- Second Order Curvature Corrected Bandgap Reference Schematic
+- **Second Order Curvature Corrected Bandgap Reference Schematic**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f91a1ffa-58b7-42c9-8c17-b5be30c7f781" alt="Centered Image">
 </p>
 
-- Second Order Curvature Corrected Reference Voltage wrt to Temperature
+- **Second Order Curvature Corrected Reference Voltage wrt to Temperature**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1219168d-857b-454d-9070-cf58ab1bee7d" alt="Centered Image">
 </p>
 
-- Second Order Curvature Corrected Reference Voltage wrt Supply Voltage sweep
+- **Second Order Curvature Corrected Reference Voltage wrt Supply Voltage sweep**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/27878cf2-08a0-4e32-8f99-9638677d0697" alt="Centered Image">
 </p>
 
-- Second Order Curvature Corrected Reference Voltage Change wrt Temperature<br>
+- **Second Order Curvature Corrected Reference Voltage Change wrt Temperature**<br>
     - As you can see this Bandgap Reference has a very small Temperature coefficient across temperature making it very accurate
-    - Temperature Coeeficient = 0.7ppm/°C
+    - **Temperature Coeeficient = 0.7ppm/°C**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/807277d9-475a-4f14-ab4f-66bd54617f67" alt="Centered Image">
 </p>
