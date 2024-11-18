@@ -33,7 +33,7 @@
 </p>
 
 
-- First Order Curvature Corrected Bandgap Reference Schematic
+## First Order Curvature Corrected Bandgap Reference Schematic
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e8737b3-b363-4dd1-acbf-7553e7bd1e58" alt="Centered Image">
 </p>
