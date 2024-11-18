@@ -27,10 +27,10 @@
   <img src="https://github.com/user-attachments/assets/f91a1ffa-58b7-42c9-8c17-b5be30c7f781" alt="Centered Image">
 </p>
 
-   - Referemce Voltage wrt to Temperature
-      <p align="center">
-      <img src="https://github.com/user-attachments/assets/1219168d-857b-454d-9070-cf58ab1bee7d" alt="Centered Image">
-      </p>
+-- Referemce Voltage wrt to Temperature
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/1219168d-857b-454d-9070-cf58ab1bee7d" alt="Centered Image">
+  </p>
 
 
 - First Order Curvature Corrected Bandgap Reference Schematic
