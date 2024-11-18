@@ -28,9 +28,9 @@
 </p>
 
   - Referemce Voltage wrt to Temperature
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/1219168d-857b-454d-9070-cf58ab1bee7d" alt="Centered Image">
-</p>
+      <p align="center">
+      <img src="https://github.com/user-attachments/assets/1219168d-857b-454d-9070-cf58ab1bee7d" alt="Centered Image">
+      </p>
 
 
 - First Order Curvature Corrected Bandgap Reference Schematic
