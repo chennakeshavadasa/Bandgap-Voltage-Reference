@@ -67,6 +67,11 @@
   <img src="https://github.com/user-attachments/assets/38e08011-efec-408b-baf4-801ff1f0977f" alt="Centered Image">
 </p>
 
+   - **Second Order Curvature Corrected Reference Voltage across Different Process Corners (FF,FS,TT,SF,SS**<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcf74cd5-2143-4e4a-ba26-32b5da708089" alt="Centered Image">
+</p>
+
 ## OTA
 
 ## Reference
