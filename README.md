@@ -33,6 +33,11 @@
   <img src="https://github.com/user-attachments/assets/b46675f2-6093-41c8-bd69-e1e32b32854e" alt="Centered Image">
 </p>
 
+- **Higher Order Compensation Current**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffa69b33-e8fb-48f4-b809-ac92db017f12" alt="Centered Image">
+</p>
+
 - **Second Order Curvature Corrected Reference Voltage across Different Process Corners (FF,FS,TT,SF,SS)**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6292ec19-442f-45c2-8cf2-8e4a4ae8161a" alt="Centered Image">
