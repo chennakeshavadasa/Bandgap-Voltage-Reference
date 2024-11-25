@@ -87,12 +87,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88ed9c41-b1a5-44c1-b955-240f513d79f9" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/c9df5386-ac4e-46e2-85b2-80d700506657" alt="Centered Image">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c9df5386-ac4e-46e2-85b2-80d700506657" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/88ed9c41-b1a5-44c1-b955-240f513d79f9" alt="Centered Image">
 </p>
+
 
 ## Reference
 **[1]**. A high PSRR bandgap voltage reference with piecewise compensation Longcheng Que, Daogang Min, Linhai Wei, Yun Zhou, Jian Lv <br>
