@@ -93,7 +93,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/88ed9c41-b1a5-44c1-b955-240f513d79f9" alt="Centered Image">
 </p>
-
+GBW: 4.885MHz (NN)
+Phase Margin: 76.2° (NN)
 
 ## Reference
 **[1]**. A high PSRR bandgap voltage reference with piecewise compensation Longcheng Que, Daogang Min, Linhai Wei, Yun Zhou, Jian Lv <br>
