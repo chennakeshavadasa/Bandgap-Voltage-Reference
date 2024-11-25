@@ -78,6 +78,10 @@
 </p>
 
 ## OTA
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb327439-b8e1-49b4-89c6-18168434c047" alt="Centered Image">
+</p>
+
 
 ## Reference
 **[1]**. A high PSRR bandgap voltage reference with piecewise compensation Longcheng Que, Daogang Min, Linhai Wei, Yun Zhou, Jian Lv <br>
