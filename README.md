@@ -1,6 +1,6 @@
 # Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
 
-- Low headroom Piecewise Compensated High PSRR Bandgap Voltage Reference using GPDK90. 
+- Piecewise Compensated High PSRR Bandgap Voltage Reference using GPDK90. 
 
 ## Specification
 (V<sub>DDA</sub> = 2.5V, T<sub>J</sub> = 27°C, C<sub>L</sub> = 5pF unless otherwise specified below)
