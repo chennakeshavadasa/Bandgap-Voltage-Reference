@@ -55,6 +55,11 @@
   <img src="https://github.com/user-attachments/assets/46b0ac8a-9b5a-4d13-9531-29da682a4cbd" alt="Centered Image">
 </p>
 
+- **Stability of the Combined Feedback Loop**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29adc811-3d15-49cc-b1e5-eca5379057ce" alt="Centered Image">
+</p>
+
 ## First Order Bandgap Reference Schematic
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ab9723e8-e332-417d-8fc6-dd6d3e69cd26" alt="Centered Image">
