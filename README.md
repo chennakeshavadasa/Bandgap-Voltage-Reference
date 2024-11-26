@@ -46,7 +46,7 @@
 
 - **Second Order Curvature Corrected Reference Voltage wrt Supply Voltage sweep**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27878cf2-08a0-4e32-8f99-9638677d0697" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/1bbd5559-3357-4e8e-a73f-d4fa7126d1e9" alt="Centered Image">
 </p>
 
 - **Second Order Curvature Corrected Reference Voltage Change wrt Temperature**<br>
