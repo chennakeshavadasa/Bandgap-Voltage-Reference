@@ -35,7 +35,7 @@
   <img src="https://github.com/user-attachments/assets/1b80d940-3ce1-41d8-8bd0-170feee953a5" alt="Centered Image">
 </p>
 
-- **Second Order Curvature Corrected Reference Voltage across Different Process Corners (FF,FS,TT,SF,SS)**
+- **Second Order Curvature Corrected Reference Voltage across Different Process Corners (FF,FS,TT,SF,SS) and Temperature**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e93fa2a8-b90c-47e0-9e59-2e60372731ca" alt="Centered Image">
 </p>
@@ -96,7 +96,7 @@
 - GBW: 4.885MHz (NN/TT)
 - Phase Margin: 76.2° (NN/TT)
  
-- **OTA Gain and Phase across Different Process Corners and Temperature**
+- **OTA Gain and Phase across Different Process Corners (FF,FS,TT,SF,SS) and Temperature**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ba33913-77e3-4222-8c89-c8ca63ee6d26" alt="Centered Image">
 </p>
