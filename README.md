@@ -42,9 +42,8 @@
 
 - **Higher Order Compensation Current**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5c4c46c-c343-4af1-8219-5382e04df3c1" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/9a502581-43e5-4b58-9e3c-86a54abb65f4" alt="Centered Image">
 </p>
-
 
 - **Second Order Curvature Corrected Reference Voltage wrt Supply Voltage sweep**
 <p align="center">
