@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88ed9c41-b1a5-44c1-b955-240f513d79f9" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/2ba33913-77e3-4222-8c89-c8ca63ee6d26" alt="Centered Image">
 </p>
 
 
