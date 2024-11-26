@@ -86,6 +86,8 @@
 </p>
 
 ## OTA
+
+- **OTA Schematic**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e0f1edc-f944-4a49-8ca6-bda8e6b66f73" alt="Centered Image">
 </p>
@@ -93,7 +95,7 @@
 
 - GBW: 4.885MHz (NN/TT)
 - Phase Margin: 76.2° (NN/TT)
-- 
+ 
 - **OTA Gain and Phase across Different Process Corners and Temperature**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ba33913-77e3-4222-8c89-c8ca63ee6d26" alt="Centered Image">
