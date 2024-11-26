@@ -29,6 +29,8 @@
 - **Second Order Curvature Corrected Reference Voltage wrt to Temperature**<br>
      - I have added an extra exponential current to Iref to cancel higher order terms in Iref (Especially ones from Vbe).<br>
      - This has been realized by pushing Iref current to a resistor and this is sensed by a mosfet in subthreshold region and this exponential current is pushed to Iref to cancel higher order terms in Iref.<br>
+     - As you can see this Bandgap Reference has a very small Temperature coefficient across temperature making it very accurate<br>
+     - **Temperature Coefficient = 5ppm/°C**<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1b80d940-3ce1-41d8-8bd0-170feee953a5" alt="Centered Image">
 </p>
@@ -49,9 +51,7 @@
   <img src="https://github.com/user-attachments/assets/1bbd5559-3357-4e8e-a73f-d4fa7126d1e9" alt="Centered Image">
 </p>
 
-- **Second Order Curvature Corrected Reference Voltage Change wrt Temperature**<br>
-    - As you can see this Bandgap Reference has a very small Temperature coefficient across temperature making it very accurate
-    - **Temperature Coefficient = 5ppm/°C**
+- **PSRR of the Piecewise Compensated Bandgap Voltage Reference**
 
 
 ## First Order Bandgap Reference Schematic
