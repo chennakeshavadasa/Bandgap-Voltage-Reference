@@ -52,7 +52,9 @@
 </p>
 
 - **PSRR of the Piecewise Compensated Bandgap Voltage Reference**
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46b0ac8a-9b5a-4d13-9531-29da682a4cbd" alt="Centered Image">
+</p>
 
 ## First Order Bandgap Reference Schematic
 <p align="center">
