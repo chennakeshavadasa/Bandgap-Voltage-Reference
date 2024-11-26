@@ -93,11 +93,8 @@
 
 - GBW: 4.885MHz (NN/TT)
 - Phase Margin: 76.2° (NN/TT)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c9df5386-ac4e-46e2-85b2-80d700506657" alt="Centered Image">
-</p>
-
+- 
+- **OTA Gain and Phase across Different Process Corners and Temperature**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ba33913-77e3-4222-8c89-c8ca63ee6d26" alt="Centered Image">
 </p>
