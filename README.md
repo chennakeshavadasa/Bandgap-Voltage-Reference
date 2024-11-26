@@ -1,4 +1,4 @@
-![BGR-sch](https://github.com/user-attachments/assets/bd2ec8e8-4667-4a91-ace0-c10bd426f18d)# Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
+# Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
 
 - Low headroom Piecewise Compensated High PSRR Bandgap Voltage Reference using GPDK90. 
 
