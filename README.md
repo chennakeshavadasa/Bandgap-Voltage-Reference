@@ -57,7 +57,7 @@
 
 - **Stability of the Combined Feedback Loop**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/594649d2-ee63-4d4f-b236-be51e3a36431" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/4f264ae7-e5e1-42eb-9fbf-592d42d3a127" alt="Centered Image">
 </p>
 
 <p align="center">
