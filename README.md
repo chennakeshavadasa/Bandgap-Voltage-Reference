@@ -35,7 +35,7 @@
 
 - **Second Order Curvature Corrected Reference Voltage across Different Process Corners (FF,FS,TT,SF,SS)**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6292ec19-442f-45c2-8cf2-8e4a4ae8161a" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/d31e9026-e2f5-4eb5-af39-efa314651aee" alt="Centered Image">
 </p>
 
 - **Higher Order Compensation Current**
