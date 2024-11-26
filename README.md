@@ -30,7 +30,7 @@
      - I have added an extra exponential current to Iref to cancel higher order terms in Iref (Especially ones from Vbe).<br>
      - This has been realized by pushing Iref current to a resistor and this is sensed by a mosfet in subthreshold region and this exponential current is pushed to Iref to cancel higher order terms in Iref.<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b46675f2-6093-41c8-bd69-e1e32b32854e" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/1b80d940-3ce1-41d8-8bd0-170feee953a5" alt="Centered Image">
 </p>
 
 - **Second Order Curvature Corrected Reference Voltage across Different Process Corners (FF,FS,TT,SF,SS)**
