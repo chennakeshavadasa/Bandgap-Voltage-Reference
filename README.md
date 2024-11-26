@@ -87,12 +87,9 @@
 
 ## OTA
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb327439-b8e1-49b4-89c6-18168434c047" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/9e0f1edc-f944-4a49-8ca6-bda8e6b66f73" alt="Centered Image">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cb50b8b3-9390-4640-925e-5f813cfbcb6d" alt="Centered Image">
-</p>
 
 - GBW: 4.885MHz (NN/TT)
 - Phase Margin: 76.2° (NN/TT)
