@@ -1,4 +1,4 @@
-# Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
+![BGR-sch](https://github.com/user-attachments/assets/bd2ec8e8-4667-4a91-ace0-c10bd426f18d)# Piecewise Compensated High-PSRR-Bandgap-Voltage-Reference
 
 - Low headroom Piecewise Compensated High PSRR Bandgap Voltage Reference using GPDK90. 
 
@@ -35,7 +35,7 @@
 
 - **Second Order Curvature Corrected Reference Voltage across Different Process Corners (FF,FS,TT,SF,SS)**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6292ec19-442f-45c2-8cf2-8e4a4ae8161a" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/e910cffd-64de-4c28-b9d2-52df096a44ec" alt="Centered Image">
 </p>
 
 - **Higher Order Compensation Current**
