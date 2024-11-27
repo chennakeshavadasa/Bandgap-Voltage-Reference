@@ -81,7 +81,7 @@
 </p>
 
 - **Monte Carlo Simulations** <br>
-     - • The 200mV and 300mV are due to startup convergence issue, other than that most of the time Vref is close to 650mV.<br>
+     -  The 200mV and 300mV are due to startup convergence issue, other than that most of the time Vref is close to 650mV.<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09b5f7f5-21c6-445b-9507-06af8d6c0b1a" alt="Centered Image">
 </p>
