@@ -64,8 +64,8 @@
   <img src="https://github.com/user-attachments/assets/29adc811-3d15-49cc-b1e5-eca5379057ce" alt="Centered Image">
 </p>
 
-- **Startup time of the Piecewise Compensated Bandgap Voltage Reference** <br>
-       - The startup time of the Bandgap Reference (BGR) is approximately 338 ns. The startup circuit quickly transitions the BGR from a zero-current state to its stable operating point, ensuring rapid stabilization.<br>
+- **Startup time of the Piecewise Compensated Bandgap Voltage Reference**  
+  - The startup time of the Bandgap Reference (BGR) is approximately 338 ns. The startup circuit quickly transitions the BGR from a zero-current state to its stable operating point, ensuring rapid stabilization.
       
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a13c435a-f227-467c-9add-d9308f432930" alt="Centered Image">
@@ -80,8 +80,9 @@
   <img src="https://github.com/user-attachments/assets/369d4276-962a-4d64-bd45-34ad453cd5a4" alt="Centered Image">
 </p>
 
-- **Monte Carlo Simulations** <br>
-         - The 200mV and 300mV are due to startup convergence issue, other than that most of the time Vref is close to 650mV.<br>
+- **Monte Carlo Simulations**  
+  - The 200mV and 300mV are due to startup convergence issues; other than that, most of the time, Vref is close to 650mV.  
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09b5f7f5-21c6-445b-9507-06af8d6c0b1a" alt="Centered Image">
 </p>
@@ -97,9 +98,8 @@
 - GBW: 4.885MHz (NN/TT)
 - Phase Margin: 76.2° (NN/TT)
  
-- **OTA Gain and Phase across Different Process Corners (FF,FS,TT,SF,SS) and Temperature** <br>
-      - Across Different Process corners (SS, SF, FF, FS, TT) and temperature (-40 °C, 27 °C, 125 °C) the Gain the OTA remains
-sufficiently high and the GBW is between 3.5MHz to 7MHz.
+- **OTA Gain and Phase across Different Process Corners (FF, FS, TT, SF, SS) and Temperature**  
+  - Across different process corners (SS, SF, FF, FS, TT) and temperatures (-40 °C, 27 °C, 125 °C), the gain of the OTA remains sufficiently high, and the GBW is between 3.5MHz to 7MHz.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ba33913-77e3-4222-8c89-c8ca63ee6d26" alt="Centered Image">
 </p>
