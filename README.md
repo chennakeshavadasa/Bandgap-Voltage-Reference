@@ -30,7 +30,7 @@
      - I have added an extra exponential current to Iref to cancel higher order terms in Iref (Especially ones from Vbe).<br>
      - This has been realized by pushing Iref current to a resistor and this is sensed by a mosfet in subthreshold region and this exponential current is pushed to Iref to cancel higher order terms in Iref.<br>
      - As you can see this Bandgap Reference has a very small Temperature coefficient across temperature making it very accurate<br>
-     - **Temperature Coefficient = 0.7ppm/°C**<br>
+     - **Temperature Coefficient = 4.4ppm/°C**<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1b80d940-3ce1-41d8-8bd0-170feee953a5" alt="Centered Image">
 </p>
