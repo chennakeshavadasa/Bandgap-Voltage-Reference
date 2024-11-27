@@ -42,7 +42,7 @@
 
 - **Higher Order Compensation Current**  
   - This compensation current has been added to compensate for higher-order terms within the Bandgap Reference. This is a function of both PTAT and CTAT higher-order terms.  
-  - The curve is kind of exponential in nature, but it is much more complex and contains higher-order dependencies of \( V_{be} \), especially \( I_s \) (Saturation Current), which has higher-order dependencies on temperature.
+  - The curve is kind of exponential in nature, but it is much more complex and contains higher-order dependencies of ( VBE), especially ( Is) (Saturation Current), which has higher-order dependencies on temperature.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a502581-43e5-4b58-9e3c-86a54abb65f4" alt="Centered Image">
