@@ -40,12 +40,17 @@
   <img src="https://github.com/user-attachments/assets/e93fa2a8-b90c-47e0-9e59-2e60372731ca" alt="Centered Image">
 </p>
 
-- **Higher Order Compensation Current**
+- **Higher Order Compensation Current**  
+  - This compensation current has been added to compensate for higher-order terms within the Bandgap Reference. This is a function of both PTAT and CTAT higher-order terms.  
+  - The curve is kind of exponential in nature, but it is much more complex and contains higher-order dependencies of \( V_{be} \), especially \( I_s \) (Saturation Current), which has higher-order dependencies on temperature.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a502581-43e5-4b58-9e3c-86a54abb65f4" alt="Centered Image">
 </p>
 
-- **Second Order Curvature Corrected Reference Voltage wrt Supply Voltage sweep**
+- **Second Order Curvature Corrected Reference Voltage wrt Supply Voltage Sweep**  
+  - Supply voltage is swept from 0 to 2.5V. The BGR and OTA wake up and start working properly around 1V. Later, the reference voltage mostly remains constant.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1bbd5559-3357-4e8e-a73f-d4fa7126d1e9" alt="Centered Image">
 </p>
