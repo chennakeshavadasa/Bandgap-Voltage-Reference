@@ -55,12 +55,18 @@
   <img src="https://github.com/user-attachments/assets/1bbd5559-3357-4e8e-a73f-d4fa7126d1e9" alt="Centered Image">
 </p>
 
-- **PSRR of the Piecewise Compensated Bandgap Voltage Reference**
+- **PSRR of the Piecewise Compensated Bandgap Voltage Reference**  
+  - The PSRR of the BGR at DC is -86dB and -76dB at 1kHz. This is due to the use of a high-swing cascode current mirror in the BGR and a bias network that also tracks the supply ripple, essentially attenuating it.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/46b0ac8a-9b5a-4d13-9531-29da682a4cbd" alt="Centered Image">
 </p>
 
-- **Stability of the Combined Feedback Loop**
+- **Stability of the Combined Feedback Loop**  
+  - The phase margin of the combined feedback loop of the BGR is 61.34° and the unity gain bandwidth is 5MHz.  
+  - The gain margin of the feedback loop is 18.33dB.  
+  - The negative feedback loop is stable and capable of settling transients within 1µs.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4f264ae7-e5e1-42eb-9fbf-592d42d3a127" alt="Centered Image">
 </p>
