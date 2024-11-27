@@ -81,7 +81,7 @@
 </p>
 
 - **Monte Carlo Simulations** <br>
-        - The 200mV and 300mV are due to startup convergence issue, other than that most of the time Vref is close to 650mV.<br>
+         - The 200mV and 300mV are due to startup convergence issue, other than that most of the time Vref is close to 650mV.<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09b5f7f5-21c6-445b-9507-06af8d6c0b1a" alt="Centered Image">
 </p>
@@ -97,7 +97,7 @@
 - GBW: 4.885MHz (NN/TT)
 - Phase Margin: 76.2° (NN/TT)
  
-- **OTA Gain and Phase across Different Process Corners (FF,FS,TT,SF,SS) and Temperature**
+- **OTA Gain and Phase across Different Process Corners (FF,FS,TT,SF,SS) and Temperature** <br>
       - Across Different Process corners (SS, SF, FF, FS, TT) and temperature (-40 °C, 27 °C, 125 °C) the Gain the OTA remains
 sufficiently high and the GBW is between 3.5MHz to 7MHz.
 <p align="center">
