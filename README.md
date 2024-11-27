@@ -64,26 +64,18 @@
   <img src="https://github.com/user-attachments/assets/29adc811-3d15-49cc-b1e5-eca5379057ce" alt="Centered Image">
 </p>
 
-## First Order Bandgap Reference Schematic
+- **Startup time of the Piecewise Compensated Bandgap Voltage Reference**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab9723e8-e332-417d-8fc6-dd6d3e69cd26" alt="Centered Image">
+  <img src="https://github.com/user-attachments/assets/a13c435a-f227-467c-9add-d9308f432930" alt="Centered Image">
+</p>
+     - The startup time of the Bandgap Reference (BGR) is approximately 338 ns. The startup circuit quickly transitions the BGR
+from a zero-current state to its stable operating point, ensuring rapid stabilization.
+
+- **Noise Analysis of the Piecewise Compensated Bandgap Voltage Reference**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/784a2c1c-ced9-4e38-b37e-664b7ba29127" alt="Centered Image">
 </p>
 
-- **First Order Bandgap Reference Voltage wrt to Temperature**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/98212ab5-0599-4d20-b7f7-460fb5422447" alt="Centered Image">
-</p>
-
-   - **First Order Bandgap Reference Voltage across Different Process Corners (FF, FS, TT, SF, SS)** <br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bcf74cd5-2143-4e4a-ba26-32b5da708089" alt="Centered Image">
-</p>
-
-- **First Order Bandgap Reference Rate of Voltage Change wrt Temperature**<br>
-    - **Temperature Coefficient = 4ppm/°C**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/38e08011-efec-408b-baf4-801ff1f0977f" alt="Centered Image">
-</p>
 
 ## OTA
 
