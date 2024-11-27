@@ -79,9 +79,10 @@
   <img src="https://github.com/user-attachments/assets/369d4276-962a-4d64-bd45-34ad453cd5a4" alt="Centered Image">
 </p>
 
-- **Monte Carlo Simulations**
-  
-
+- **Monte Carlo Simulations** 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09b5f7f5-21c6-445b-9507-06af8d6c0b1a" alt="Centered Image">
+</p>
 
 ## OTA
 
