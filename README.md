@@ -17,7 +17,7 @@
 
 ## Circuit
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a5326e8c-8563-4fb8-977d-4a9b34e025ba" alt="X">
+  <img src="https://github.com/user-attachments/assets/5c2bd357-5951-4b2b-8f29-b7295e56793b" alt="X">
 </p>
 
 ## Piecewise Compensated Second Order Curvature corrected BGR
