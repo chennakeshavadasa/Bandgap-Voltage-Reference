@@ -68,8 +68,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a13c435a-f227-467c-9add-d9308f432930" alt="Centered Image">
 </p>
-     - The startup time of the Bandgap Reference (BGR) is approximately 338 ns. The startup circuit quickly transitions the BGR
-from a zero-current state to its stable operating point, ensuring rapid stabilization.<br>
+     - The startup time of the Bandgap Reference (BGR) is approximately 338 ns. The startup circuit quickly transitions the BGR from a zero-current state to its stable operating point, ensuring rapid stabilization.<br>
+
 
 - **Noise Analysis of the Piecewise Compensated Bandgap Voltage Reference**
 <p align="center">
@@ -78,6 +78,9 @@ from a zero-current state to its stable operating point, ensuring rapid stabiliz
 <p align="center">
   <img src="https://github.com/user-attachments/assets/369d4276-962a-4d64-bd45-34ad453cd5a4" alt="Centered Image">
 </p>
+
+- **Monte Carlo Simulations**
+  
 
 
 ## OTA
