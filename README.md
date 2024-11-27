@@ -65,7 +65,7 @@
 </p>
 
 - **Startup time of the Piecewise Compensated Bandgap Voltage Reference** <br>
-       -  The startup time of the Bandgap Reference (BGR) is approximately 338 ns. The startup circuit quickly transitions the BGR from a zero-current state to its stable operating point, ensuring rapid stabilization.<br>
+       - The startup time of the Bandgap Reference (BGR) is approximately 338 ns. The startup circuit quickly transitions the BGR from a zero-current state to its stable operating point, ensuring rapid stabilization.<br>
       
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a13c435a-f227-467c-9add-d9308f432930" alt="Centered Image">
