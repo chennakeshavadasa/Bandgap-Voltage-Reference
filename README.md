@@ -98,6 +98,8 @@
 - Phase Margin: 76.2° (NN/TT)
  
 - **OTA Gain and Phase across Different Process Corners (FF,FS,TT,SF,SS) and Temperature**
+      - Across Different Process corners (SS, SF, FF, FS, TT) and temperature (-40 °C, 27 °C, 125 °C) the Gain the OTA remains
+sufficiently high and the GBW is between 3.5MHz to 7MHz.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ba33913-77e3-4222-8c89-c8ca63ee6d26" alt="Centered Image">
 </p>
